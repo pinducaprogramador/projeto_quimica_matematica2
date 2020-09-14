@@ -81,7 +81,7 @@ button{
     background-color: hsl(115, 100%, 40%) ;
     border:none;
 }
-button:hover{
+button:active{
     color:hsl(115, 100%, 40%) ;
     background-color: #fff;
     transition: 1s;
